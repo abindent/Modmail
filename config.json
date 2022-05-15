@@ -1,0 +1,5 @@
+{
+    
+    "prefix": "!m",
+    "mongooseConnectionString": "mongodb+srv://SinchanMaitra:SMMongoD345@discohuge.j7gf8.mongodb.net/Modmail_OpenSourceGames"
+}
